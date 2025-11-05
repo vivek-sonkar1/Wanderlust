@@ -92,6 +92,10 @@ app.get("/demouser", async (req,res)=>{
   res.send(newUser);
 });
 
+app.get("/", (req, res) => {
+  res.redirect("/listings");
+});
+
 app.use("/listings", listingRouter);
 app.use("/listings/:id/reviews", reviewRouter);
 app.use("/", userRouter);
