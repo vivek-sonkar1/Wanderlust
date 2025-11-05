@@ -36,4 +36,5 @@ It is built using **Node.js**, **Express**, **MongoDB**, and integrates **Cloudi
 | **Authentication** | Passport.js (Local Strategy) |
 | **File Storage** | Cloudinary + Multer |
 | **Maps / Geocoding** | Mapbox SDK |
+| **Validation** | Joi (server-side) + Browser Form Validation (client-side) |
 | **Session Storage** | connect-mongo |
