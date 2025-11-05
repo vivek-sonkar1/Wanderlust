@@ -1,7 +1,12 @@
 # 🌍 Wanderlust
 
 Wanderlust is a full-stack travel listing web application where users can explore travel destinations, create their own listings, upload images, post reviews, and view listing locations on an interactive map.  
-It is built using **Node.js**, **Express**, **MongoDB**, and integrates **Cloudinary** for image uploads and **Mapbox** for geolocation and mapping, and **Bootstrap** for UI styling.
+It is built using **Node.js**, **Express**, **MongoDB**, integrates **Cloudinary** for image uploads, **Mapbox** for geolocation and mapping, and **Bootstrap** for UI styling.
+
+---
+
+## 🚀 Live Demo
+https://wanderlust-nx7h.onrender.com/
 
 ---
 
@@ -30,7 +35,7 @@ It is built using **Node.js**, **Express**, **MongoDB**, and integrates **Cloudi
 
 | Category | Technology Used |
 |--------|----------------|
-| **Frontend** | HTML5, CSS3, JavaScript, EJS Templates |
+| **Frontend** | HTML, CSS, JavaScript, EJS Templates, Bootstrap |
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB + Mongoose ORM |
 | **Authentication** | Passport.js (Local Strategy) |
